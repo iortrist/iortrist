@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-CONST TRISTAN = {
+```CONST TRISTAN = {
   pronouns: "He" | "him",
   backend: ["Ruby", "Nodejs", "Go"],
   frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
@@ -9,7 +9,7 @@ CONST TRISTAN = {
   "cloud-server": ["AWS", "Gcloud", "DigitalOcean", "Heroku"],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I am doing All-In-One Toolbox for Developers. It's Muerta Toolbox."
-}
+}```
 
 <!--
 **iortrist/iortrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
